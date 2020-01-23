@@ -1,4 +1,4 @@
 Litt endreinger her
-linje to 
+linje to !
 
-enda en linje
+enda en linje!
